@@ -1,0 +1,7 @@
+DEPENDENCIES
+  cb_infra_influxdb
+    path: .
+    metadata: true
+
+GRAPH
+  cb_infra_influxdb (0.1.0)
